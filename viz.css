@@ -1,0 +1,24 @@
+body {
+  background-color: #F9E5BC;
+  text-align: center;
+  font-family: Roboto;
+}
+h1 {
+  color: #00008B;
+}
+
+h3 {
+  color: red;
+}
+
+#my_dataviz {
+
+}
+
+div.tooltip {
+  position: absolute;
+}
+
+text {
+  font-size: 50px;
+}
