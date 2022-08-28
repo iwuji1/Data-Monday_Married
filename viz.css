@@ -15,10 +15,23 @@ h3 {
 
 }
 
+
+
 div.tooltip {
   position: absolute;
 }
 
 text {
   font-size: 50px;
+}
+
+.central text {
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.central path{
+  fill: none;
+  stroke: none;
+  stroke-width: none;
 }
